@@ -6,6 +6,6 @@ draft: false
 
 Hola, this is my new post in hugo. I am trying to setup a development environment that allows me to have a workflow I am comfortable with.
 
-More soon?
+More soon? Lets see
 
 [Me in Bali](/static/images/tomas.jpg)

@@ -10,6 +10,13 @@ Tomas Diez is a Venezuelan Urbanist specialized in digital fabrication and its i
 
 Tomas co-founded the Exploring Emergent Futures platform in the Design Products department at the Royal College of Arts in London, and is co-founder of initiatives such as: the crowdsensing platform [Smart Citizen](http://www.smartcitizen.me), the social network [FabLabs.io](http://www.fablabs.io), and the artist residency [StudioP52](http://www.studiop52.com); he has been the organiser and co-chair of the [FAB10 Barcelona](http://www.fab10.org), the 10th international fab lab conference and annual meeting hosted by Fab Lab Barcelona (IAAC) in 2014. Tomas has been appointed by The Guardian and Nesta as one of the top 10 digital social innovators to watch in 2013, and has been awarded by the Catalan ICT association as the entrepreneur of the year in 2014. His research interests relate to the use of digital fabrication tools to transform reality, and how the use of new technologies can change the way people consume, produce and relate with each other in cities.
 
+Short:
+Tomas Diez is a Venezuelan Urbanist specialized in digital fabrication and its implications on the future cities and society. He is the co-founder and director of Fab Lab Barcelona at the Institute for Advanced Architecture of Catalonia (IAAC), and is a founding partner of the Fab City Global Initiative. He is also the director of the recently launched Master in Design for Emergent Futures at IAAC.
+
+To add to short as optional: 
+Tomas has been appointed by The Guardian and Nesta as one of the top 10 digital social innovators to watch in 2013, and has been awarded by the Catalan ICT association as the entrepreneur of the year in 2014. His research interests relate to the use of digital fabrication tools to transform reality, and how the use of new technologies can change the way people consume, produce and relate with each other in cities.
+
+
 Photos: [Profile 1](https://images.adsttc.com/media/images/598e/1d04/b22e/382f/f400/0056/medium_jpg/Tomas_Diez_Fab_Lab.jpg?1502485761)
 
-[Profile 2](https://drive.google.com/file/d/1HB85s434bTWpI4ulsGd39z7iXB35OBGP/view?usp=sharing] 
+[Profile 2](https://drive.google.com/file/d/1HB85s434bTWpI4ulsGd39z7iXB35OBGP/view?usp=sharing]

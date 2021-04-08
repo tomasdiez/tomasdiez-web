@@ -162,7 +162,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 
 [params.gitalk]
 owner = "tomasdiez"       # Your GitHub ID
-repo = "tomasdiez.github.io"        # The repo to store comments
+repo = "tomasdiez-web"        # The repo to store comments
 clientId = ""    # Your client ID
 clientSecret = "" # Your client secret
 

@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Tomas Diez"
-theme = "KeepIt2"
+theme = "KeepIt"
 
 paginate = 12
 enableEmoji = true

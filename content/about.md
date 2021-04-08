@@ -16,7 +16,7 @@ Short:
 Tomas Diez is a Venezuelan Urbanist who specialises in digital fabrication and its implications on the future cities and society. He is the co-founder and director of Fab Lab Barcelona at the Institute for Advanced Architecture of Catalonia (IAAC), and is a founding partner of the Fab City Global Initiative and the Meaningful Design Group Bali. He is also the director of the Master in Design for Emergent Futures at IAAC.
 
 To add to short as optional:
-Tomas has been appointed by The Guardian and Nesta as one of the top 10 digital social innovators to watch in 2013, and has been awarded by the Catalan ICT association as the entrepreneur of the year in 2014. His research interests relate to the use of digital fabrication tools to transform reality, and how the use of new technologies can change the way people consume, produce and relate with each other in cities.
+Tomas has been appointed by The Guardian and Nesta as one of the top 10 digital social innovators to watch, and has been awarded by the Catalan ICT association as the entrepreneur of the year. His research interests relate to the use of digital fabrication tools to transform reality, and how the use of new technologies can change the way people consume, produce and relate with each other in cities.
 
 
 Photos: [Profile 1](https://images.adsttc.com/media/images/598e/1d04/b22e/382f/f400/0056/medium_jpg/Tomas_Diez_Fab_Lab.jpg?1502485761)
